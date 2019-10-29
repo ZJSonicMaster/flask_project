@@ -1,0 +1,2 @@
+关键字搜索：http://t.yushu.im/v2/search/?q={}&start={}&count={}
+isbn搜索：http://t.yushu.im/v2/book/isbn/{isbn}
